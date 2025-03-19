@@ -37,33 +37,29 @@ make memcheck
 | Функция          | Выполнено ✅ |
 |-----------------|-------------|
 | **Part 1**       |             |
-| `strchr (6)`     | ✅           |
-| `strpbrk (12)`   | ✅           |
-| `strrchr (13)`   | ✅           |
-| `strstr (14)`    | ✅           |
-| `strtok (15)`    | ✅           |
-| **Tests for all** | ✅           |
-| **Build Automation** | ✅       |
-| **Sprintf**      | ✅           |
-|------------------|--------------|
-* | **Part 1**       |             |
 | `memchr (1)`     | ✅           |
 | `memcmp (2)`     | ✅           |
 | `memcpy (3)`     | ✅           |
 | `memset (4)`     | ✅           |
-| **Part 5**       |             |
-| `to_lower`       | ✅           |
-| `to_upper`       | ✅           |
-| `insert`         | ✅           |
-| `trim`           | ✅           |
-|------------------|--------------|
-| **Part 1**       |             |
 | `strncat (5)`    | ✅           |
+| `strchr (6)`     | ✅           |
 | `strncmp (7)`    | ✅           |
 | `strncpy (8)`    | ✅           |
 | `strcspn (9)`    | ✅           |
 | `strerror (10)`  | ✅           |
 | `strlen (11)`    | ✅           |
+| `strpbrk (12)`   | ✅           |
+| `strrchr (13)`   | ✅           |
+| `strstr (14)`    | ✅           |
+| `strtok (15)`    | ✅           |
+| `to_lower`       | ✅           |
+| `to_upper`       | ✅           |
+| `insert`         | ✅           |
+| `trim`           | ✅           |
+| **Tests for all** | ✅           |
+| **Build Automation** | ✅       |
+| **Sprintf**      | ✅           |
+| **Part 5**       | ✅           |
 
 ## DOC
 ### Part 1.
